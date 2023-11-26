@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, sys
 import googletrans
 import nkTextProcess.extract__textFromPDF as etp
